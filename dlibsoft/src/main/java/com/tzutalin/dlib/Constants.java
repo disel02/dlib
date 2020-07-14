@@ -1,8 +1,13 @@
-package com.tapsoft.app.dlibsoft;
+package com.tzutalin.dlib;
 
 import android.os.Environment;
 
 import java.io.File;
+
+/**
+ * Created by darrenl on 2016/4/22.
+ * Modified by Gaurav on Feb 23, 2018
+ */
 
 public final class Constants {
     private Constants() {
