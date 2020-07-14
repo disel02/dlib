@@ -1,0 +1,3 @@
+include ':dlibsoft'
+include ':app'
+rootProject.name = "dlib"
